@@ -1,8 +1,20 @@
-# Getting Started with Create React App
+# React Project with Azure DevOps CI/CD
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple React application configured with a Continuous Integration and Continuous Deployment (CI/CD) pipeline using Azure DevOps.
 
-## Available Scripts
+---
+
+## Prerequisites
+
+Before running the project, make sure you have the following installed:
+
+- **Node.js** 
+- **Azure DevOps Account**
+- **Git**
+
+---
+
+## Getting Started
 
 In the project directory, you can run:
 
